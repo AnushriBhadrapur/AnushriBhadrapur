@@ -8,5 +8,5 @@ Hi, I’m Anushri — a data analyst who turns messy operational/financial data 
 
 📊Viz: Tableau / Power BI, storytelling, dashboard UX
 
-Automation: Python scripting, workflow improvements
+⚙Automation: Python scripting, workflow improvements
 
