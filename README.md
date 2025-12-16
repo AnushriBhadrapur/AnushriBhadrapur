@@ -1,6 +1,6 @@
-Hi there 🙋‍♀️
+## Hi there 🙋‍♀️
 
-Hi, I’m Anushri — a data analyst who turns messy operational/financial data into clean models, dashboards, and decisions. I work with SQL, Python, Excel, Power BI/Tableau, and automation to help teams move faster and measure what matters.
+### Hi, I’m Anushri — a data analyst who turns messy operational/financial data into clean models, dashboards, and decisions. I work with SQL, Python, Excel, Power BI/Tableau, and automation to help teams move faster and measure what matters.
 
 📉Data: SQL, data modeling, ETL, cleaning, validation
 
